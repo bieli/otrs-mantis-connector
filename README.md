@@ -13,11 +13,19 @@ This is open source project for connecting flow two open source products:
 What was motivating ?
 ---------------------
 
-Disscusion on OTRS Idea forum -> 
+Disscusion on OTRS Idea forum -> https://otrsteam.ideascale.com/a/dtd/Compatibility-with-Mantis/383012-10369
 
 What is exactlly connectiing ?
 ---------------------
-
+   > It would be nice to have an "Export to..." button for the ticket, which would allow us to export (preferably some
+   > selected info/notes/etc) to a bug tracking system or somewhere else, like Mantis for our case.
+   >
+   > So, by clicking that button we would get an issue in Mantis with a generated number, summary and description of the
+   > issue linked to the OTRS ticket. Meaning that there would be a link in OTRS to the Mantis issue and a link in Mantis
+   > to the OTRS ticket.
+   >
+   > The last one, the link to OTRS ticket, is easy to be made at the moment, but it would be made manually and it would
+   > take some time adding one for every issue that appears.
 
 
 What solutions are used ?
