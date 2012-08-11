@@ -1,0 +1,6 @@
+Revision history for Perl extension Mantisbt::RESTAPI.
+
+0.01  Sat Aug 11 01:43:09 2012
+	- original version; created by h2xs 1.23 with options
+		-AX -n Mantisbt::RESTAPI
+
